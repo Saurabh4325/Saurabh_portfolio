@@ -8,13 +8,13 @@ import NotAvailable from "./NotAvailable";
 const Project = () => {
   const project1 = [
     {
-      url: "/assets/insta_image.jpg",
+      url: "/Saurabh_portfolio/assets/insta_image.jpg",
     },
     {
-      url: "/assets/insta_image_installation.jpg",
+      url: "/Saurabh_portfolio/assets/insta_image_installation.jpg",
     },
     {
-      url: "/assets/insta_image_video.jpg",
+      url: "/Saurabh_portfolio/assets/insta_image_video.jpg",
     },
     // {
     //   url: "/assets/twitter_4.png",
@@ -25,33 +25,33 @@ const Project = () => {
   ];
   const project2 = [
     {
-      url: "/assets/e-com/ecom_1.png",
+      url: "/Saurabh_portfolio/assets/e-com/ecom_1.png",
     },
     {
-      url: "/assets/e-com/ecom_2.png",
+      url: "/Saurabh_portfolio/assets/e-com/ecom_2.png",
     },
     {
-      url: "/assets/e-com/ecom_3.png",
+      url: "/Saurabh_portfolio/assets/e-com/ecom_3.png",
     },
     {
-      url: "/assets/e-com/ecom_4.png",
+      url: "/Saurabh_portfolio/assets/e-com/ecom_4.png",
     },
     {
-      url: "/assets/e-com/ecom_5.png",
+      url: "/Saurabh_portfolio/assets/e-com/ecom_5.png",
     },
   ];
   const project3 = [
     {
-      url: "/assets/netflix/netflix_1.png",
+      url: "/Saurabh_portfolio/assets/netflix/netflix_1.png",
     },
     {
-      url: "/assets/netflix/netflix_2.png",
+      url: "/Saurabh_portfolio/assets/netflix/netflix_2.png",
     },
     {
-      url: "/assets/netflix/netflix_3.png",
+      url: "/Saurabh_portfolio/assets/netflix/netflix_3.png",
     },
     {
-      url: "/assets/netflix/netflix_4.png",
+      url: "/Saurabh_portfolio/assets/netflix/netflix_4.png",
     },
   ];
 
@@ -127,7 +127,7 @@ const Project = () => {
             <div className="h-fit rounded-md overflow-hidden border border-dark p-0 ">
               <ReactPlayer
                 // url="https://res.cloudinary.com/dryvdqck7/video/upload/v1719984453/videos/Mini_Twitter_dgzbnf.mp4"
-                url="/insta_image_video.mp4"
+                url="/Saurabh_portfolio/assets/insta_image_video.mp4"
                 controls={true}
                 width="100%"
               />
