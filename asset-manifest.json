@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Saurabh_portfolio/static/css/main.21808fae.css",
-    "main.js": "/Saurabh_portfolio/static/js/main.b3386a2a.js",
+    "main.css": "/Saurabh_portfolio/static/css/main.a3815748.css",
+    "main.js": "/Saurabh_portfolio/static/js/main.ee3b8963.js",
     "reactPlayerYouTube.js": "/Saurabh_portfolio/static/js/reactPlayerYouTube.27777aac.chunk.js",
     "reactPlayerSoundCloud.js": "/Saurabh_portfolio/static/js/reactPlayerSoundCloud.5fe4a4af.chunk.js",
     "reactPlayerVimeo.js": "/Saurabh_portfolio/static/js/reactPlayerVimeo.a3ee5ad5.chunk.js",
@@ -18,8 +18,8 @@
     "reactPlayerPreview.js": "/Saurabh_portfolio/static/js/reactPlayerPreview.f10023f0.chunk.js",
     "static/js/453.c80fe85c.chunk.js": "/Saurabh_portfolio/static/js/453.c80fe85c.chunk.js",
     "index.html": "/Saurabh_portfolio/index.html",
-    "main.21808fae.css.map": "/Saurabh_portfolio/static/css/main.21808fae.css.map",
-    "main.b3386a2a.js.map": "/Saurabh_portfolio/static/js/main.b3386a2a.js.map",
+    "main.a3815748.css.map": "/Saurabh_portfolio/static/css/main.a3815748.css.map",
+    "main.ee3b8963.js.map": "/Saurabh_portfolio/static/js/main.ee3b8963.js.map",
     "reactPlayerYouTube.27777aac.chunk.js.map": "/Saurabh_portfolio/static/js/reactPlayerYouTube.27777aac.chunk.js.map",
     "reactPlayerSoundCloud.5fe4a4af.chunk.js.map": "/Saurabh_portfolio/static/js/reactPlayerSoundCloud.5fe4a4af.chunk.js.map",
     "reactPlayerVimeo.a3ee5ad5.chunk.js.map": "/Saurabh_portfolio/static/js/reactPlayerVimeo.a3ee5ad5.chunk.js.map",
@@ -37,7 +37,7 @@
     "453.c80fe85c.chunk.js.map": "/Saurabh_portfolio/static/js/453.c80fe85c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.21808fae.css",
-    "static/js/main.b3386a2a.js"
+    "static/css/main.a3815748.css",
+    "static/js/main.ee3b8963.js"
   ]
 }
