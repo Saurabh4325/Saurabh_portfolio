@@ -63,7 +63,7 @@ const About = () => {
         <div className="w-full md:w-[40%] flex justify-center md:justify-start items-center pt-4">
           <div className="h-32 w-32 md:w-60 md:h-60 lg:w-72 lg:h-72 rounded-full overflow-hidden">
             <img
-              src="Saurabh_portfolio/photo.jpg"
+              src="/Saurabh_portfolio/photo.jpg"
               alt="banner"
               className="w-full object-contain"
             />
