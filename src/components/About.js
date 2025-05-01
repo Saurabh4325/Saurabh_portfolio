@@ -16,7 +16,7 @@ const About = () => {
     <div className="w-full bg-backgroundDark-0" id="home">
       <div className="w-[100%] border-red-400 md:w-[90%] lg:w-[80%] m-auto relative pt-20 flex flex-col md:flex-row md:justify-center">
         {/* LeftSide */}
-        <div className="w-[100%] md:w-[60%] lg:w-[50%] font-Rubik md:py-20 xl:p-20 flex flex-col items-center md:items-start gap-y-8 py-4">
+        <div className="w-[100%] md:w-[60%] lg:w-[50%] font-Rubik md:py-20 xl:p-18 flex flex-col items-center md:items-start gap-y-8 py-4">
           <h1 className="text-4xl md:text-5xl text-white font-bold">
             {" "}
             {"Hello, I'm "}
@@ -60,7 +60,7 @@ const About = () => {
         </div>
 
         {/* RightSide */}
-        <div className="w-full md:w-[40%] flex justify-center md:justify-start items-center pt-4">
+        {/* <div className="w-full md:w-[40%] flex justify-center md:justify-start items-center pt-4">
           <div className="h-32 w-32 md:w-60 md:h-60 lg:w-72 lg:h-72 rounded-full overflow-hidden">
             <img
               src="/Saurabh_portfolio/photo.jpg"
@@ -68,7 +68,9 @@ const About = () => {
               className="w-full object-contain"
             />
           </div>
-        </div>
+        </div> */}
+
+
       </div>
     </div>
   );
