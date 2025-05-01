@@ -127,7 +127,7 @@ const Project = () => {
             <div className="h-fit rounded-md overflow-hidden border border-dark p-0 ">
               <ReactPlayer
                 // url="https://res.cloudinary.com/dryvdqck7/video/upload/v1719984453/videos/Mini_Twitter_dgzbnf.mp4"
-                url="/Saurabh_portfolio/assets/insta_image_video.mp4"
+                url="/Saurabh_portfolio/insta_image_video.mp4"
                 controls={true}
                 width="100%"
               />
